@@ -8,7 +8,7 @@ from the running Minecraft-server at your
 website and can also execute many predefined
 commands.
 
-WebBridge can be used through the (very simple)
+WebBridge can be used through the (easy to use)
 PHP-API or through the AJAX-interface(Javascript)
 
 So all you need for using WebBridge is some
