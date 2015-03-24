@@ -1,6 +1,6 @@
 #   Welcome to sixteenpixels' WebBridge!
 
-WebBridge will allow you to communicate betweem
+WebBridge will allow you to communicate between
 your webserver and your Minecraft-server!
 
 You will be able to read a lot of information
