@@ -3,7 +3,7 @@
 	/*
 		* Welcome to WebBridge!
 		* Thanks for using!
-		* For help visit http://www.sixteenpixels.com/projects/webbridge
+		* For help visit the WebBridge wiki on GitHub: https://github.com/sixteenpixels/webbridge/wiki 
 		* By Maximilian Torggler
 		*
 		******************************************************************
